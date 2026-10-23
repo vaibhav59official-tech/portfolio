@@ -1,48 +1,43 @@
-# Vaibhav Singh — Modern Developer Portfolio
+# Vaibhav Singh — SDET & QA Automation Portfolio
 
-A sleek, responsive, and performance-focused developer portfolio crafted with modern semantic HTML5, CSS3 variables, and vanilla JavaScript. Designed in the minimalist, dark-mode architectural style inspired by the reference QA Portfolio.
+A modern, high-performance SDET & Quality Assurance Portfolio showcasing 2.5+ years of experience in test automation frameworks, web/API/mobile testing, CI/CD, and AI-assisted quality engineering.
 
-## 🚀 Key Features & Upgrades
-- **Modern Dark UI Design System**: Built with CSS variables (`#0b1220`, `#101a2f`, `#63e6be` accent), glassy frosted navigation, and crisp typography (`Inter` & `JetBrains Mono`).
-- **Profile & Live Status**: Interactive hero card with live availability status dot, location, and verified social icons.
-- **Complete Information Integration**:
-  - **Work Experience**: Problem Setter (DSA) Intern @ iMocha, Head of DISCO Digital Sub-Council @ SAE MMMUT, and NCC Cadet @ 102 UP BN NCC.
-  - **Skills Breakdown**: Categorized into 6 capability cards (DSA/C++, Frontend, Backend/DB, Tools/Linux, Competitive Coding, Team Leadership).
-  - **Featured Projects**: Gym On-Freak, Spotify Clone, Chandrayaan-3 Tribute, Lamborghini Aventador Parallax, and Real-Time Digital Clock.
-  - **Dual GitHub Support**: Configured with the new primary profile (`vaibhav59official-tech`) with fallback links to (`singhva59`).
-  - **Direct Form Submission**: Functional contact form powered by FormSubmit delivering directly to `vaibhavsingh94566@gmail.com`.
-  - **Coding Platforms Grid**: Direct links and stats for LeetCode, HackerRank, GitHub, and LinkedIn.
+🌐 **Live Portfolio**: [https://vaibhav59official-tech.github.io/portfolio/](https://vaibhav59official-tech.github.io/portfolio/)
 
 ---
 
-## 📁 Project Structure
+## 🚀 Key Highlights & Capabilities
+- **Branding**: Vaibhav SDET • Bug Hunter
+- **Core Experience**: 2.5+ Years of QA Automation across Web, API, and Mobile
+- **Automation Frameworks**: Selenium WebDriver, Playwright, REST Assured, Appium, TestNG, Cucumber BDD
+- **AI-Powered Quality Engineering**:
+  - Playwright MCP (AI-assisted test generation, page objects, smart locators)
+  - GitHub Copilot (Script generation, REST Assured, framework refactoring)
+  - Cursor AI (Repository-wide AI coding, intelligent refactoring)
+  - ChatGPT (Test strategy, RCA, test case & SQL generation, API validation)
+- **Featured Projects**:
+  - **AutoRetroFit**: Multi-Format, Multi-Language Test Automation RetroFit Engine. Converts manual test cases into DRY, framework-aligned automated suites.
+  - **UI-Testing**: Comprehensive E2E Web UI Automation Framework built with TypeScript.
+  - **API-Testing**: REST API Validation Suite covering CRUD workflows, JSON schema assertions, and auth tokens.
+  - **saucodemoUI**: Full E2E E-Commerce Automation Suite with Page Object Model architecture.
+- **Direct Contact**: Integrated FormSubmit delivering directly to `vaibhav59official@gmail.com`.
+
+---
+
+## 📁 Repository Structure
 ```
-portfolio-vaibhav/
-├── index.html       # Semantic HTML5 layout
-├── style.css        # Responsive CSS3 styles with modern variables & cards
-├── script.js        # Mobile navigation toggle & scroll-spy
-└── README.md        # Deployment and usage guide
+portfolio/
+├── index.html       # Semantic HTML5 layout with SDET showcase
+├── style.css        # Responsive modern dark-theme CSS with AI & capabilities styling
+├── script.js        # Active scroll spy, dynamic year, and mobile menu handling
+└── README.md        # Documentation and deployment overview
 ```
 
 ---
 
-## 🌐 How to Deploy for Free
-
-### Option 1: GitHub Pages (Recommended)
-1. Initialize a git repository and push to your new GitHub profile:
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: initial release of modern developer portfolio"
-   git branch -M main
-   git remote add origin https://github.com/vaibhav59official-tech/portfolio.git
-   git push -u origin main
-   ```
-2. In your GitHub repository, navigate to **Settings** > **Pages**.
-3. Under **Branch**, select `main` and `/ (root)`, then click **Save**.
-4. Your site will be live at:
-   `https://vaibhav59official-tech.github.io/portfolio/`
-
-### Option 2: Vercel (1-Click)
-1. Run `npx vercel` in this folder, or import the GitHub repository in [Vercel](https://vercel.com).
-2. Since it is pure HTML/CSS/JS, it will deploy in seconds with zero configuration.
+## 🌐 Deployment via GitHub Pages
+1. Go to **Settings** → **Pages** in the repository.
+2. Under **Build and deployment**, select:
+   - **Source**: `Deploy from a branch`
+   - **Branch**: `main` and folder `/ (root)`
+3. Save to deploy automatically to [https://vaibhav59official-tech.github.io/portfolio/](https://vaibhav59official-tech.github.io/portfolio/).
